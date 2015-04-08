@@ -1,6 +1,6 @@
 {
     "name": "ericGuyaderBerger/ZF2WhiteApp",
-    "description": "White Application for ZF2 projects",
+    "description": "Application blanche utilisant le ZF2 et d'autres composants utiles",
     "license": "BSD-3-Clause",
     "keywords": [
         "framework",
